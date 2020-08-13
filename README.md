@@ -5,14 +5,17 @@ NEAT and Genetic Algorithm has the ability to add or remove a neural node hence 
 
 # Running the Algorithm
 Clone the Repository by running
+<br>
 <code>git clone "https://github.com/thatfreakcoder/FlappyBird-NEAT-AI"</code>
+<br>
 or downloading it via the <code>DOWNLOAD</code> button
-<br><br><br>
+<br>
 Install the dependencies by running
 <br>
 <code>pip install -r requirements.txt</code>
-<br><br>
+<br>
 and then finally run the game by running
+<br>
 <code>python main.py</code>
 
 
